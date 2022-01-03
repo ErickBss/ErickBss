@@ -13,6 +13,8 @@
 
 # Addition :exclamation:
 ### Want to see what projects I already done? I organized for you on a website check it out :running:
+##
+###Requiriment🖥: Use a PC for access the website, doesn't have support for small screens like mobile or tablet yet, it'll be able soon
 ### https://erickbss.github.io/ErickBss-Portfolio/
 
 
