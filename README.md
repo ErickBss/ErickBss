@@ -13,4 +13,4 @@
 
 ## ❗️ Addtion 
 ### I created a website to expose my projects and my professional profile, take a look:
-### https://portfolio-erickbss.vercel.app/
+### https://portfolio-dusky-ten-16.vercel.app/
