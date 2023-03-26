@@ -11,6 +11,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErickBss&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
-## ❗️ Addtion 
-### I created a website to expose my projects and my professional profile, take a look:
+
+### ❗️I created a website to expose my projects and my professional profile, take a look:
 ### https://portfolio-dusky-ten-16.vercel.app/
